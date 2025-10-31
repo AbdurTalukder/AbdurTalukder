@@ -21,7 +21,7 @@ Welcome to my GitHub profile! 🚀
 ---
 
 ## 📈 GitHub Stats
-![Abdur Talukder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Abdur Talukder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdurTalukder&show_icons=true&theme=radical)
 
 ---
 
