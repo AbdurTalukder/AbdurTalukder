@@ -13,9 +13,9 @@ Welcome to my GitHub profile! 🚀
 
 ## 💻 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Express, Firebase  
-- **Mobile Apps:** Flutter, Android Studio  
-- **Design & Multimedia:** Photoshop, Illustrator, After Effects, Premiere Pro  
+- **Backend:** Php, Self Host, Firebase  
+- **Mobile Apps:** Android Studio, Skechware  
+- **Design & Multimedia:** Artario, Capcut
 - **Other Tools:** Git, GitHub, VS Code
 
 ---
