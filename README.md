@@ -18,19 +18,5 @@ Welcome to my GitHub profile! 🚀
 - **Design & Multimedia:** Artario, Capcut
 - **Other Tools:** Git, GitHub, VS Code
 
----
-
-## 📈 GitHub Stats
-![Abdur Talukder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdurTalukder&show_icons=true&theme=radical)
-
----
-
-## 📫 Contact Me
-- 🌐 Website: [YourWebsite.com](https://yourwebsite.com)  
-- ✉️ Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
-
----
-
 ## ⚡ Fun Fact
 “Strive for progress, not perfection.” 😄
